@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there, I'm Muheed Ahmed Khan!<br>🎓 I'm currently a 7th-semester student pursuing a Bachelor's degree in Computer Science.<br>💻 Passionate about technology and its applications, I'm diving deep into the world of Data Science.<br>📚 Continuously expanding my knowledge through online platforms like Coursera, I'm actively engaged in various courses to enhance my skills and stay updated with the latest trends in the field.<br>👨‍💻 As a developer, I enjoy building innovative solutions and exploring new technologies to solve real-world problems.<br>🚀 Join me on this exciting journey as I learn, grow, and contribute to the tech community!
+👋 Hello there, I'm Muheed Ahmed Khan!<br>🎓 I'm currently a 8th-semester student pursuing a Bachelor's degree in Computer Science.<br>💻 Passionate about technology and its applications, I'm diving deep into the world of Data Science.<br>📚 Continuously expanding my knowledge through online platforms like Coursera, I'm actively engaged in various courses to enhance my skills and stay updated with the latest trends in the field.<br>👨‍💻 As a developer, I enjoy building innovative solutions and exploring new technologies to solve real-world problems.<br>🚀 Join me on this exciting journey as I learn, grow, and contribute to the tech community!
 
 
 ## 🌐 Socials:
